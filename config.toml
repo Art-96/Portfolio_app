@@ -1,4 +1,4 @@
-baseURL = "https://arthurgadyan.netlify.com"
+baseURL = "https://arthurgadyan.netlify.app"
 canonifyURLs = true
 disableLanguages = ["fr"]
 disqusShortname = ""
