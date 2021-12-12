@@ -1,0 +1,26 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Atul Kumar
+      image : images/client/client-3-copy.jpg
+      image_webp : images/client/client-3.webp
+      date : Nov 9, 2021 
+      content : Great Freelancer. He understood the Project quickly and delivered before time. I will surely consider him for my future projects. Cheers!!
+      
+    # testimonial item loop
+    - name : Abdul B.
+      image : images/client/profile.png
+      image_webp : images/client/profile.png
+      date : Dec 05,2020
+      content : Arthur is a very responsive and professional freelancer. He has delivered the web scraping project in record time. Highly recommend him for web scraping projects and python development.
+      
+    # testimonial item loop
+    - name : Abdul B.
+      image : images/client/profile.png
+      image_webp : images/client/profile.png
+      date : Dec 10, 2020
+      content : Awsome project! Thanks Arthur G. Is always pleasure working with you.

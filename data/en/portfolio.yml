@@ -1,0 +1,76 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Portfolio  #My Works
+  portfolio_item :
+    # portfolio item loop
+    - name : BeautifulSoup + Python
+      image : images/portfolio/webscraping-img-1.jpg
+      image_webp : images/portfolio/  #portfolio-1.webp
+      categories : ["Web Scraping"]
+      content : Data extraction using Beautifulsoup and Requests library.
+      link : "https://github.com/Art-96/web_scraping"
+      
+    # portfolio item loop
+    - name : Selenium + Python
+      image : images/portfolio/selenium-python-1.png
+      image_webp : images/portfolio/  #portfolio-2.webp
+      categories : ["Autonation"]
+      content : Selenium based automation, data loading and saving.
+      link : "https://github.com/Art-96/web_scraping_with_selenium"
+      
+    # portfolio item loop
+    - name : Scrapy + Python
+      image : images/portfolio/scrapy-python-1.png
+      image_webp : images/portfolio/  #portfolio-3.webp
+      categories : ["Web Scraping", "Web Crawling"]
+      content : Crawling a webpage with Scrapy framework.
+      link : "https://github.com/Art-96/Scrapy"
+      
+    # # portfolio item loop
+    # - name : Bottol Label
+    #   image : images/portfolio/portfolio-4.jpg
+    #   image_webp : images/portfolio/portfolio-4.webp
+    #   categories : ["photography", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Shopping Bag
+    #   image : images/portfolio/portfolio-5.jpg
+    #   image_webp : images/portfolio/portfolio-5.webp
+    #   categories : ["design"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Tag Design
+    #   image : images/portfolio/portfolio-6.jpg
+    #   image_webp : images/portfolio/portfolio-6.webp
+    #   categories : ["photography"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Business Card
+    #   image : images/portfolio/portfolio-7.jpg
+    #   image_webp : images/portfolio/portfolio-7.webp
+    #   categories : ["development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Stationary Design
+    #   image : images/portfolio/portfolio-8.jpg
+    #   image_webp : images/portfolio/portfolio-8.webp
+    #   categories : ["design", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Tag Design
+    #   image : images/portfolio/portfolio-2.jpg
+    #   image_webp : images/portfolio/portfolio-2.webp
+    #   categories : ["design", "photography"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"

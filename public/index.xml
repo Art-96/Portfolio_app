@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artur Gadyan</title>
+    <link>https://arthurgadyan.github.io/portfolio_app/</link>
+    <description>Recent content on Artur Gadyan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
+    <lastBuildDate>Wed, 10 Nov 2021 12:48:00 +0000</lastBuildDate><atom:link href="https://arthurgadyan.github.io/portfolio_app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information About Schools</title>
+      <link>https://arthurgadyan.github.io/portfolio_app/blog/simple-blog-post-1/</link>
+      <pubDate>Wed, 10 Nov 2021 12:48:00 +0000</pubDate>
+      
+      <guid>https://arthurgadyan.github.io/portfolio_app/blog/simple-blog-post-1/</guid>
+      <description>In this project it was necessary to extract information about schools from the website rajshaladarpan.nic.in and save it in Excel format.</description>
+    </item>
+    
+    <item>
+      <title>Data Extraction On Homes for Sale - Sweden</title>
+      <link>https://arthurgadyan.github.io/portfolio_app/blog/simple-blog-post-3/</link>
+      <pubDate>Thu, 10 Dec 2020 11:02:00 +0000</pubDate>
+      
+      <guid>https://arthurgadyan.github.io/portfolio_app/blog/simple-blog-post-3/</guid>
+      <description>The main goal of project was to develop a web scraping solution to collect data from thousandsof pages from hemnet.</description>
+    </item>
+    
+    <item>
+      <title>Arthur Gadyan</title>
+      <link>https://arthurgadyan.github.io/portfolio_app/author/artur-gadyan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurgadyan.github.io/portfolio_app/author/artur-gadyan/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://arthurgadyan.github.io/portfolio_app/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurgadyan.github.io/portfolio_app/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Properties For Sale By Auction</title>
+      <link>https://arthurgadyan.github.io/portfolio_app/blog/simple-blog-post-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurgadyan.github.io/portfolio_app/blog/simple-blog-post-2/</guid>
+      <description>The aim of the project was to obtain information about properties offered for sale by auction from the website auctions.</description>
+    </item>
+    
+  </channel>
+</rss>

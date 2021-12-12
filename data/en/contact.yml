@@ -1,0 +1,33 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Me
+  subtitle : Contact Details
+  content : Here you can see my contact details, as well as send me a message directly by filling out the form and clicking on the <<Submit>>.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Nabereznaya, Stepanakert, NKR, Armenia"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +374-98-001-445"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +374-97-339-960"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: arturgadyan@mail.ru"
+    
+    - icon : ti-google # themify icon pack : https://themify.me/themify-icons
+      info : "Gmail: arturgadyan123@gmail.com"
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/xoqrqvok" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

@@ -1,0 +1,28 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : I am a web scraping expert.
+  content : "My skills include web scraping, web crawling, automation and data processing. My main programming languages are Python, JavaScript and SQL. I can create bots that extract the necessary data from the site and save it in the required format.
+I also create bots that automate manual work, where the usual scraper does not work, automation is very effective."
+  feature_item : 
+      # feature item loop
+    - title : Data Extraction
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Extracting data from different sites, building Spyder scripts.
+      
+      # feature item loop
+    - title : Automation
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Building bots for complex websites, making it as similar as possible to using a person.
+
+      # feature item loop
+    - title : Data Storage
+      icon : ti-write # themify icon pack : https://themify.me/themify-icons
+      content : Saving data in popular files such as CSV, JSON, XML and other formats.
+      
+      # feature item loop
+    #- title : Easy Customization
+    #  icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+    #  content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

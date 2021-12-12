@@ -1,0 +1,42 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Skills
+  subtitle : My Skills & Proficiencies.
+  content : Here you can visually see and imagine what skills I have and to what extent.
+  # image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Python language
+      percent : 90%
+      
+    # skill item loop
+    - name :  Data Scraping - Data Extraction
+      percent : 90%
+      
+    # skill item loop
+    - name :  Selenium
+      percent : 95%
+    
+    - name :  Beautiful Soup
+      percent : 85%
+
+    # skill item loop
+    - name :  Pandas
+      percent : 75%
+      
+    # skill item loop
+    - name :  Scrapy
+      percent : 85%
+    
+    - name :  JavaScript language
+      percent : 65%
+    
+    - name :  Regular Expressions
+      percent : 65%
+    
+    - name :  Git
+      percent : 50%
+    
+    - name :  C# language
+      percent : 70%

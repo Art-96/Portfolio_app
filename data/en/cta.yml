@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Data Extraction & Automation"
+  content : "If you want to start a project with me, contact me at the available contact details."
+  button:
+    enable : true
+    label : "Start a project with me"
+    link : "#contact"
