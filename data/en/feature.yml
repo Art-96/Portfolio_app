@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/about/filter_img.jpg  #about-business-man.jpg
+  image_webp : images/about/  #about-business-man.webp
   title : I am a web scraping expert.
   content : "My skills include web scraping, web crawling, automation and data processing. My main programming languages are Python, JavaScript and SQL. I can create bots that extract the necessary data from the site and save it in the required format.
 I also create bots that automate manual work, where the usual scraper does not work, automation is very effective."

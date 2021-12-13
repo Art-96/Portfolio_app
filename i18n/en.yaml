@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: My Works
+  translation: My Projects
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Work
+  translation: View All Project
 - id: share
   translation: Share
 - id: aboutAuthor
